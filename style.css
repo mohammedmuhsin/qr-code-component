@@ -1,0 +1,25 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Outfit', sans-serif;
+}
+.card{
+    background-color: white;
+    border-radius: 15px;
+    padding: 4%;
+    text-align: center;
+    width: 60%;
+    margin-left: 17%;
+    margin-top: 15%;
+    box-shadow: 0 10px 40px hsl(220, 15%, 55%);
+}
+img{
+    border-radius: 3%;
+    width: 99%;
+
+}
+p{
+    color: hsl(220, 15%, 55%);
+}
